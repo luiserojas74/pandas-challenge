@@ -1,0 +1,5 @@
+Written description of observable trends based on the data:
+1.	Students do better in Reading than Math
+2.	Higher Budget per Student does not necessarily help to increase the Overall Passing.
+3.	Smaller Size Schools have better performance.
+4.	Charter Schools have better performance than District Schools.
